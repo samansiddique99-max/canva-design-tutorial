@@ -1,5 +1,5 @@
 # canva-design-tutorial
-In this video, I walk you through the step-by-step process of how I designed this project using the techniques taught in the tutorial: 
+here is the link
 https://youtu.be/1dlHdXsaAbY.
 
 I followed the video closely, learning how to:
